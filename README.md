@@ -5,7 +5,7 @@ React Resume Builder is a modern and user-friendly application built using React
 
 ## Features
 
-- **User-Friendly Interface:** The application provides an intuitive and easy-to-navigate interface, ensuring a seamless user experience.
+- **User-Friendly Interface:** The application provides an intuitive and easy to navigate interface, ensuring a seamless user experience.
 
 - **Dynamic Input Fields:** Customize your resume by adding dynamic input fields, making it easy to include all the necessary information.
 
